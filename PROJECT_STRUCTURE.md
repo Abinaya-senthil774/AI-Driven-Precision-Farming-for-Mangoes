@@ -45,16 +45,6 @@ mango_code/
 └── PROJECT_STRUCTURE.md         # This file
 ```
 
-## Key Improvements
-
-1. **Modular Structure**: Code is organized into logical modules (pages, utils, config)
-2. **Configuration Management**: All paths and settings centralized in `src/config/settings.py`
-3. **Separation of Concerns**: UI pages separated from business logic utilities
-4. **Clean Imports**: Proper package structure with `__init__.py` files
-5. **Asset Organization**: Images moved to dedicated `assets/` directory
-6. **Training Scripts**: Kept separate in `training/` directory
-7. **Temporary Files**: Centralized in `temp/` directory
-
 ## Running the Application
 
 ```bash

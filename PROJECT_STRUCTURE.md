@@ -55,14 +55,4 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
-## Configuration
-
-Update model paths in `src/config/settings.py` to point to your actual model files.
-
-## Notes
-
-- Model files should be placed in the `models/` directory structure
-- Temporary files are automatically created in `temp/` directory
-- All image assets should be in `assets/images/`
-- Training scripts remain in `training/` for reference
 
